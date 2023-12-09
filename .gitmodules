@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "dsem"]
+	path = dsem
+	url = https://github.com/james-thorson-noaa/dsem
 [submodule "phylosem"]
 	path = phylosem
 	url = https://github.com/james-thorson-noaa/phylosem

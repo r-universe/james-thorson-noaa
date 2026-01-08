@@ -8,6 +8,9 @@
 [submodule "ecostate"]
 	path = ecostate
 	url = https://github.com/james-thorson-noaa/ecostate
+[submodule "mvtweedie"]
+	path = mvtweedie
+	url = https://github.com/james-thorson-noaa/mvtweedie
 [submodule "phylosem"]
 	path = phylosem
 	url = https://github.com/james-thorson-noaa/phylosem
